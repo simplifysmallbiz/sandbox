@@ -1,7 +1,7 @@
 <?php
 
 /**
- * When a note is added, save the note to a field in the associated entry
+ * When a note is added, log the note to debug.log
  *
  */
 
